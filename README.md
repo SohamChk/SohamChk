@@ -1,9 +1,9 @@
 ### Hi there, I'm Soham! 👋
 
-I'm a seasoned backend developer with almost 3 years of experience in the IoT industry. I specialize in crafting solutions using languages like Python, JavaScript, Node.js, and C. My tech toolkit includes Docker, Nginx, RabbitMQ, MQTT, and Redis, among others.
+I'm a seasoned backend developer with almost 3 years of experience and a diverse background in the realms of IoT (Internet of Things) services and cybersecurity. I specialize in crafting solutions using languages like Python, JavaScript, Node.js, and C. My tech toolkit includes Docker, Nginx, RabbitMQ, MQTT, and Redis, among others.
 
 #### 🌐 Experience
-I am a seasoned professional with a diverse background in the realms of IoT (Internet of Things) services and cybersecurity. Over the course of my career, I've played a key role in building resilient backend infrastructures for IoT services. My focus has been on implementing and fine-tuning diverse IoT systems, with a commitment to ensuring smooth connectivity and effective data management.
+Over the course of my career, I've played a key role in building resilient backend infrastructures for IoT services. My focus has been on implementing and fine-tuning diverse IoT systems, with a commitment to ensuring smooth connectivity and effective data management.
 
 Alongside my proficiency in IoT, I've explored the ever-evolving field of cybersecurity. I've had the opportunity to support organizations in strengthening their digital defense mechanisms by leading the setup of Security Information and Event Management (SIEM) platforms. Additionally, I've been involved in deploying Endpoint Detection and Response (EDR) systems, contributing to the improved security posture of cybersecurity startups.
 
